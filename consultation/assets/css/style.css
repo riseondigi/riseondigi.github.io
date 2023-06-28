@@ -1,4 +1,3 @@
-
 :root {
   --color-main: #0066ff;
   --color-primary: #0066ff;
@@ -20929,7 +20928,7 @@ footer.style-15 .foot p {
   font-weight: 500 !important;
 }
 
-.new_h33{
+.new_h33 {
 
   font-size: 32px !important;
   text-transform: capitalize !important;
@@ -20958,12 +20957,12 @@ footer.style-15 .foot p {
   background-color: #363636;
 }
 
-.second_color{
+.second_color {
   background-color: #fde534;
   padding: 50px;
 }
 
-.count_2{
+.count_2 {
   background-color: #363636 !important;
   color: white;
 }
@@ -20982,7 +20981,7 @@ footer.style-15 .foot p {
   font-family: inherit;
 }
 
-.count_2{
+.count_2 {
   height: 300px !important;
 }
 
@@ -20990,7 +20989,7 @@ footer.style-15 .foot p {
   background-color: #363636;
 }
 
-.about_heding h3{
+.about_heding h3 {
   font-size: 37px !important;
   text-transform: capitalize !important;
   font-family: inherit !important;
@@ -20998,16 +20997,16 @@ footer.style-15 .foot p {
   text-align: left;
 }
 
-.about_img img{
+.about_img img {
   width: 390px;
 }
 
-.about_all_P p{
+.about_all_P p {
   font-size: 23px;
   font-weight: 500;
 }
 
-.links a i{
+.links a i {
   font-size: 19px;
 }
 
@@ -21019,193 +21018,313 @@ footer.style-15 .foot p {
   filter: invert(1) !important;
 }
 
-.foot-logo a img{
+.foot-logo a img {
   width: 100px !important;
 }
 
-.footer_aria{
+.footer_aria {
   padding-top: 30px;
   padding-bottom: 30px;
 }
 
+.faq_im img{
+  width: 581px !important;
+  margin-top: 12px;
+
+}
+
 @media only screen and (min-width: 320px) and (max-width: 667px) {
+
+  header.style-13 .info h1 {
+    font-size: 29px !important;
+    line-height: 43px;
+  }
+
+  .secont_paira p {
+    font-size: 21px;
+    font-family: unset !important;
+  }
 
   .navbar.style-13 {
     height: 80px;
     padding-top: 0px;
+  }
+
+  .navbar-light .navbar-toggler {
+    display: none;
+  }
+
+  header.style-13 .info {
+    top: -42px;
+    left: 6px;
+  }
+
+  .navbar-brand img {
+    width: 90px !important;
+    position: relative;
+    top: -12px;
+  }
+
+  .nav-scroll .navbar-brand img {
+    width: 70px !important;
+    position: unset;
+    transform: scale(1.1);
+  }
+
+  header.style-13 .img img {
+    width: 350px;
+    max-width: unset;
+    margin-left: 5px;
+  }
+
+  .banner_img {
+    margin-top: 0px !important;
+  }
+
+  .about.style-13 .content .info .text {
+    font-size: 20px;
+    line-height: 30px;
+    font-family: unset;
+  }
+
+  .community.style-5 .content {
+    width: 100%;
+  }
+
+  .community.style-5 .content .commun-card .inf h5 {
+    font-size: 20px;
+    line-height: 1.1;
+  }
+
+  .cta_mob {
+    padding-top: 0px !important;
+    padding-bottom: 40px !important;
+  }
+
+  .about.style-1 .content .about-info {
+    padding: 10px 0;
+  }
+
+  .about.style-1 .content .about-info .title h3 {
+    font-size: 24px;
+    font-weight: 700;
+
+  }
+
+  .all_point li {
+    font-size: 17px;
+  }
+
+  .info h5 {
+    font-size: 20px;
+    font-family: unset !important;
+  }
+
+  .good_bad {
+    background-color: #FFCC00;
+    padding: 25px 0px;
+    border-radius: 25px;
+    width: 100%;
+    margin: auto;
+  }
+
+  .good_bad h2 {
+    font-size: 24px;
+  }
+
+  .good_bad h3 {
+    font-size: 29px;
+  }
+
+  .mobile_pd {
+    padding-top: 50px !important;
+    padding-bottom: 40px !important;
+  }
+
+  .section-head.style-06 h2 {
+    font-size: 25px;
+    line-height: 44px;
+    letter-spacing: 0px !important;
+  }
+
+  .section-head.style-06 h2 span small {
+    font-size: 21px;
+    padding-left: 28px;
+    line-height: 48px;
+  }
+
+  .testimonials_sec h3 {
+    font-size: 24px !important;
+    font-weight: 600 !important;
+  }
+
+  .heding_img h6 img {
+    width: 100px;
+  }
+
+  .heding_img h6 {
+    font-size: 29px;
+  }
+
+  .new_heading2 h2 {
+    font-size: 18px !important;
+    margin-top: 27px;
+  }
+
+  .right_section img {
+    width: 160px;
+    float: unset;
+    margin: auto;
+    display: inherit;
+  }
+
+  .shape_5 h5 {
+    left: 129px;
+    top: 237px;
+    font-size: 16px !important;
+  }
+
+  .left_section {
+    width: 160px;
+    margin: auto;
+    padding-top: 17px;
+  }
+
+  .shape_6 h5 {
+    font-size: 13px !important;
+    margin-top: 37px !important;
+    right: 44px;
+    width: 49%;
+  }
+
+  .shape_7 h5 {
+    font-size: 16px !important;
+    margin-top: 40px !important;
+    left: 125px;
+    text-align: left;
+    width: 56%;
+  }
+
+  .shape_8 h5 {
+    font-size: 16px !important;
+    margin-top: 52px !important;
+    right: 33px;
+    width: 53%;
+  }
+
+  .testi_mob {
+    font-size: 25px !important;
+  }
+
+  .new_h3 h3 {
+    font-size: 24px !important;
+    padding-bottom: 27px;
+    text-align: left;
+    font-weight: 600 !important;
+  }
+
+  .left_site23 li {
+    font-size: 24px;
+  }
+
+  .projects_mob {
+    padding-top: 46px !important;
+    padding-bottom: 0px !important;
+  }
+
+  .section-head.style-3 h3 {
+    font-size: 24px !important;
 }
 
-.navbar-light .navbar-toggler {
-  display: none;
-}
-header.style-13 .info {
-  top: -42px;
-  left: 6px;
-}
-.navbar-brand img {
-  width: 90px !important;
-  position: relative;
-  top: -12px;
+  .count_2 {
+    height: 344px !important;
+  }
+
+  .about_heding h3 {
+    font-size: 24px !important;
+  }
+
+  .about_all_P p {
+    font-size: 21px;
+    font-weight: 500;
+    padding-top: 25px;
+  }
+
+  .mob_section {
+    padding-top: 33px !important;
+    padding-bottom: 15px !important;
+  }
+
+  .footer_aria {
+    padding-top: 13px;
+    padding-bottom: 0px;
+  }
+
+  header.style-13 .img::before {
+    top: -5px;
+  }
+
+  .about.style-13 .content::before {
+    bottom: -8px;
+  }
+
+  .service_section {
+    padding: 0px 0px 50px;
+    margin-top: -50px;
+  }
+
+  .services.style-13 .item .cont {
+    padding: 34px;
+    height: 240px;
+  }
+
+  .about.style-1 {
+    padding-bottom: 50px;
+  }
+
+  .mob_off {
+    display: none;
+  }
+
+  .landing_pages {
+
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+  }
+
+  .blog.style-13 {
+    padding-top: 43px !important;
+  }
+
+  .mob_next h2{
+    font-size: 25px !important;
+    font-weight: 600 !important;
+    letter-spacing: 0px !important;
+  }
+
+  .color_3 {
+    font-size: 17px;
 }
 
-.nav-scroll .navbar-brand img {
-  width: 70px !important;
-  position: unset;
-}
-
-header.style-13 .img img {
-  width: 408px;
-  max-width: unset;
-  margin-left: 5px;
-}
-
-.banner_img{
-  margin-top: 0px !important;
-}
-
-.about.style-13 .content .info .text {
+.color_4 {
+  color: #fde534;
   font-size: 21px;
-  line-height: 30px;
-  font-family: emoji;
+  margin-bottom: 6px;
+  margin-top: 7px;
 }
 
-.community.style-5 .content {
-  width: 100%;
-}
-
-.community.style-5 .content .commun-card .inf h5 {
-  font-size: 21px;
-  line-height: 1.1;
-}
-
-.cta_mob{
-  padding-top: 0px !important;
-  padding-bottom: 40px !important;
-}
-
-.about.style-1 .content .about-info {
-  padding: 10px 0;
-}
-
-.about.style-1 .content .about-info .title h3 {
-  font-size: 24px;
+.new_projrct{
+  padding-top: 50px !important;
 
 }
 
-.all_point li {
-  font-size: 17px;
+.new_h33 {
+  margin-bottom: 10px !important;
+}
 }
 
-.info h5 {
-  font-size: 20px;
-}
-
-.good_bad {
-  background-color: #FFCC00;
-  padding: 25px 0px;
-  border-radius: 25px;
-  width: 100%;
-  margin: auto;
-}
-
-.good_bad h2 {
-  font-size: 25px;
-}
-
-.good_bad h3 {
-  font-size: 29px;
-}
-
-.section-head.style-06 h2 {
-  font-size: 26px;
-  line-height: 44px;
-}
-.section-head.style-06 h2 span small {
-  font-size: 21px;
-  padding-left: 28px;
-  line-height: 48px;
-}
-.testimonials_sec h3 {
-  font-size: 30px !important;
-}
-.heding_img h6 img {
-  width: 100px;
-}
-.heding_img h6 {
-  font-size: 29px;
-}
-.new_heading2 h2 {
-  font-size: 18px !important;
-  margin-top: 27px;
-}
-.right_section img {
-  width: 160px;
-  float: unset;
-  margin: auto;
-  display: inherit;
-}
-.shape_5 h5 {
-  left: 129px;
-  top: 237px;
-  font-size: 17px !important;
-}
-.left_section {
-  width: 160px;
-  margin: auto;
-  padding-top: 17px;
-}
-
-.shape_6 h5 {
-  font-size: 11px !important;
-  margin-top: 46px !important;
-  right: 26px;
-  width: 60%;
-}
-.shape_7 h5 {
-  font-size: 13px !important;
-  margin-top: 52px !important;
-  left: 111px;
-  text-align: left;
-  width: 59%;
-}
-.shape_8 h5 {
-  font-size: 13px !important;
-  margin-top: 52px !important;
-  right: 30px;
-  width: 53%;
-}
-.testi_mob{
-  font-size: 25px !important;
-}
-
-.new_h3 h3 {
-  font-size: 26px !important;
-  padding-bottom: 27px;
-}
-.left_site23 li {
-  font-size: 24px;
-}
-.projects_mob{
-  padding-top: 46px !important;
-  padding-bottom: 10px !important;
-}
-.count_2 {
-  height: 344px !important;
-}
-.about_heding h3 {
-  font-size: 24px !important;
-}
-.about_all_P p {
-  font-size: 21px;
-  font-weight: 500;
-  padding-top: 25px;
-}
-.mob_section{
-  padding-top: 33px !important;
-  padding-bottom: 15px !important;
-}
-.footer_aria {
-  padding-top: 13px;
-  padding-bottom: 0px;
-}
+@media only screen and (min-width: 668px) and (max-width: 6000px) {
+  .destop_off {
+    display: none !important;
+  }
 }

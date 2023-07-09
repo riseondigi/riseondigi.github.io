@@ -9,7 +9,7 @@ $( function() {
         mobile: false,
         live: false
     });
-    //wow.init();
+    wow.init();
 
     // scrollIt
     $.scrollIt({
@@ -127,14 +127,13 @@ $( function() {
         });
 
     // -------- blog effect --------
-    /*
     $(".blog .blog_box").mouseenter(function(){
         $(this).find(".text").slideDown();
     })
     $(".blog .blog_box").mouseleave(function(){
         $(this).find(".text").slideUp();
     })
-    */
+
       // --------- fav btn ---------
   $(".fav-btn").on("click" , function(){
         $(this).toggleClass("active");
@@ -199,8 +198,10 @@ $( function() {
       $dropdown.off("mouseenter mouseleave");
     }
   });
+  
 
-/*
+
+
 // ------------ swiper sliders -----------
 $(document).ready(function() {
     var swiper = new Swiper('.portfolio-slider .swiper-container', {
@@ -238,7 +239,7 @@ $(document).ready(function() {
             }
         }
     });
-    
+
     // ------------ blog sliders -----------
     var swiper = new Swiper('.blog_slider .swiper-container', {
         slidesPerView: 3,
@@ -1149,8 +1150,8 @@ $(document).ready(function() {
             }
         }
     });
+
 });
-*/
 
 
 $(window).on("load", function() {

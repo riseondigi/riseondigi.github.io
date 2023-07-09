@@ -362,7 +362,7 @@ html::-webkit-scrollbar-corner {
 }
 
 body {
-  font-family: "Inter", sans-serif;
+  font-family: "Lato", sans-serif;
   text-decoration: none;
   font-size: 0.9em;
   overflow-x: hidden;
@@ -2360,7 +2360,7 @@ small.text {
 .section-head.style-13 h2 {
   font-size: 37px;
   color: white;
-  font-family: sans-serif;
+  font-family: 'Lato', sans-serif;
   font-weight: 500 !important;
   text-transform: capitalize;
 }
@@ -2802,7 +2802,6 @@ small.text {
   -webkit-box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
   padding: 0;
-  position: fixed !important;
   top: -100px !important;
   left: 0;
   width: 100%;
@@ -20674,6 +20673,7 @@ footer.style-15 .foot p {
 
 .secont_paira p {
   font-size: 29px;
+  font-family: 'Merriweather', serif;
   font-weight: 600;
   text-transform: none;
   padding-left: 60px;
@@ -20753,7 +20753,7 @@ footer.style-15 .foot p {
   text-align: center;
   color: #696868;
   margin-top: 39px;
-  font-family: cursive;
+  font-family: 'Merriweather', serif;
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -20866,7 +20866,7 @@ footer.style-15 .foot p {
   top: 130px;
   font-size: 25px !important;
   color: #363636 !important;
-  font-family: 'Inter' !important;
+  font-family: 'Lato', sans-serif !important;
 }
 
 .shape_6 h5 {
@@ -20875,7 +20875,7 @@ footer.style-15 .foot p {
   color: #363636 !important;
   margin-top: 104px !important;
   right: 104px;
-  font-family: 'Inter' !important;
+  font-family: 'Lato', sans-serif !important;
 }
 
 .shape_7 h5 {
@@ -20883,7 +20883,7 @@ footer.style-15 .foot p {
   font-size: 23px !important;
   color: #363636 !important;
   margin-top: 121px !important;
-  font-family: 'Inter' !important;
+  font-family: 'Lato', sans-serif !important;
   left: 246px;
   text-align: left;
 }
@@ -20893,7 +20893,7 @@ footer.style-15 .foot p {
   font-size: 23px !important;
   color: #363636 !important;
   margin-top: 121px !important;
-  font-family: 'Inter' !important;
+  font-family: 'Lato', sans-serif !important;
   right: 227px;
 }
 
@@ -21096,7 +21096,7 @@ footer.style-15 .foot p {
   .caution_line .caution_font {
     font-size: 20px !important;
     color: red !important;
-    font-family: 'Inter';
+    font-family: 'Lato', sans-serif;
     text-transform: capitalize;
     margin-top: -16px !important;
     padding: 5px;
@@ -21547,7 +21547,7 @@ footer.style-15 .foot p {
 .section-head.style-13 h3 {
   font-size: 37px;
   color: black;
-  font-family: sans-serif;
+  font-family: 'Lato', sans-serif;
   font-weight: 600;
   text-transform: capitalize;
 }
@@ -21555,7 +21555,7 @@ footer.style-15 .foot p {
 .caution_line .caution_font {
   font-size: 24px;
   color: red !important;
-  font-family: 'Inter';
+  font-family: 'Lato', sans-serif;
   text-transform: capitalize;
   margin-top: 40px;
   padding: 5px;

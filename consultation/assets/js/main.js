@@ -238,7 +238,7 @@ $(document).ready(function() {
             }
         }
     });
-    
+
     // ------------ blog sliders -----------
     var swiper = new Swiper('.blog_slider .swiper-container', {
         slidesPerView: 3,

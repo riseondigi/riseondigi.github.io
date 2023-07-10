@@ -21108,7 +21108,7 @@ footer.style-15 .foot p {
   .heding_img {
     margin: auto;
     display: inline-block;
-    left: 29%;
+    left: 25%;
   }
 
   .project-card.style-3 .img {
@@ -21283,6 +21283,7 @@ footer.style-15 .foot p {
 
   .heding_img h6 {
     font-size: 29px;
+    text-align: center;
   }
 
   .new_heading2 h2 {
@@ -21578,7 +21579,7 @@ footer.style-15 .foot p {
 .heding_img h5 {
   font-size: 32px;
   font-weight: 600;
-  text-align: right;
+  text-align: center;
   font-family: fantasy;
   text-transform: uppercase;
 }

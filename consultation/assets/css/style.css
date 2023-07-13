@@ -2197,9 +2197,9 @@ small.text {
   left: 0;
   top: 0;
   height: 100%;
-  width: 335px;
+  width: 100%;
   background-image: url(../image/text_bg.png);
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   z-index: 1;
@@ -2235,9 +2235,9 @@ small.text {
   left: 0;
   top: 0;
   height: 100%;
-  width: 438px;
+  width: 100%;
   background-image: url(../image/text_bg2.png);
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   z-index: 1;

@@ -114,7 +114,7 @@
       }
     );
   }
-
+/*
   // custom coursor
   if ($(".custom-cursor").length) {
     var cursor = document.querySelector(".custom-cursor__cursor");
@@ -153,7 +153,7 @@
       });
     });
   }
-
+*/
   if ($(".contact-form-validated").length) {
     $(".contact-form-validated").validate({
       // initialize the plugin
@@ -898,4 +898,5 @@
   $(window).on("resize", function () {
     tolak_stretch();
   });
+
 })(jQuery);

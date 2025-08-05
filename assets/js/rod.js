@@ -797,7 +797,7 @@
     }
     thmOwlInit();
     thmTinyInit();
-    priceFilter();
+    // priceFilter();
     tolakPara();
 
     if ($(".circle-progress").length) {
@@ -900,3 +900,4 @@
   });
 
 })(jQuery);
+

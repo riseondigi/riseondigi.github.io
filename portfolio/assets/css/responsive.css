@@ -1,0 +1,129 @@
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  
+  .main-menu-two .main-menu__toggler {
+    display: block;
+  }
+
+  .hdr-num-emaill{
+    display: none;
+  }
+
+  .slider-two__title {
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #252746;
+    padding-top: 20px;
+  }
+
+
+  .slider-two::before {
+  width: 280px;
+  height: 260px;
+  top: 78px;
+  left: -24px;
+}
+
+.contact-one__form {
+  padding: 22px 23px;
+  width: 100%;
+  z-index: 9;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.slider-two__box {
+  padding-bottom: 45px;
+  padding-top: 87px;
+}
+
+.footer-one__widget__gallery {
+  margin-top: 30px;
+  padding: 0px 10px;
+}
+
+.footer-one__widget__gallery .web-popup {
+  height: 430px;
+  margin-bottom: 10px;
+}
+
+.footer-two__copyright p {
+  padding: 5px 0;
+  font-size: 12px;
+}
+
+.main-header__logo img {
+  width: 80%;
+}
+
+
+.mob-quote-btn{
+  margin-left: 0px;
+  display: block;
+}
+
+
+.mob-quote-btn .thm-btn {
+  padding: 7px 12px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.get-quote-mdl {
+  max-width: 100%;
+}
+
+.quote-frm-wrp {
+  display: block;
+}
+
+.bttn-close {
+
+  right: -4px;
+  top: 0px;
+
+}
+
+.pop-frm-img img {
+  width: 100%;
+}
+
+.pop-frm-lft {
+  height: auto;
+  width: 100%;
+}
+
+
+.pop-frm-content ul {
+  margin-bottom: 0px;
+}
+
+
+.contact-one__form__title {
+  font-size: 25px;
+}
+
+
+.contact-one__btn {
+  font-size: 15px;
+  font-weight: 500;
+  padding: 8px 16px;
+}
+
+.popfrm-logo {
+  padding-top: 18px;
+  text-align: left;
+  padding-left: 15px;
+}
+
+.popfrm-logo img {
+  width: 165px;
+}
+
+.pop-frm-lft::after {
+  display: none;
+}
+
+
+
+}
